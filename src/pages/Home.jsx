@@ -174,6 +174,7 @@ const Container = Styled.div`
           border-radius: 4px;
           padding: .5rem .7rem;
           width: 100%;
+          font-size: .9rem;
         }
 
         input[type=text], input[type=password] {
